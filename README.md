@@ -1,5 +1,9 @@
 # Introduction to Data Visualization with ggplot2
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datttrian/introduction-to-data-visualization-with-ggplot2/blob/main/src/notebook.ipynb)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datttrian/introduction-to-data-visualization-with-ggplot2)
+
 This is a repository for the DataCamp course Introduction to Data Visualization with ggplot2. The
 full course is available from [DataCamp](https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2).
 
